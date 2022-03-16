@@ -1,21 +1,21 @@
 ---
-title: 'RobOntics 2021'
+title: 'RobOntics 2022'
 layout: single
 author_profile: false
-excerpt: '2nd edition of the Ontologies for Autonomous Robots Workshop'
+excerpt: '3rd edition of the Ontologies for Autonomous Robots Workshop'
 header:
   overlay_image: /images/banner.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-International Workshop on Ontologies for Autonomous Robotics (ROBONTICS 2021) @ [FOIS 2021](https://fois2021.inf.unibz.it/), part of [Bolzano Summer of Knowledge (BOSK 2021)](https://summerofknowledge.inf.unibz.it/), Bolzano, Italy
+International Workshop on Ontologies for Autonomous Robotics (ROBONTICS 2022) @ [JOWO 2022](https://www.iaoa.org/jowo/2022/), Jönköping, Sweden
 
 
 <span style="color:red">**COVID-19 related update**</span>
 
-We encourage researchers interested in the fields of robotics and knowledge engineering to submit short (5-6 pages) or long (10-12 pages) research papers by July 16th 2021; accepted papers will be published in a JOWO proceedings volume in 2021.
+We encourage researchers interested in the fields of robotics and knowledge engineering to submit short (5-6 pages) or long (10-12 pages) research papers by June 7th 2022; accepted papers will be published in a JOWO proceedings volume in 2022.
 
-Researchers with accepted papers will be invited to present at the RobOntics 2021 workshop, which is planned to be a hybrid (online and, if conditions allow, pysical event).
+Researchers with accepted papers will be invited to present at the RobOntics 2022 workshop, which is planned to be a hybrid (online and, if conditions allow, pysical event).
 
 **WORKSHOP MOTIVATION**
 
@@ -28,10 +28,10 @@ One of the difficulties is the large amount of real-world knowledge that an agen
 
 **IMPORTANT DATES**
 
-- Submission deadline: July 16th, 2021 (extended)
-- Notification: August 10th, 2021
-- Camera ready: August 23rd, 2021
-- Workshop: September 17th, 2021
+- Submission deadline: June 7th, 2022
+- Notification: July 15th, 2022
+- Camera ready: August 5th, 2022
+- Workshop: August 15th-19th (TBD), 2022
 
 
 **LIST OF TOPICS (partial)**
@@ -83,7 +83,7 @@ All the contributions to the workshop must be submitted according to the CEUR-Ar
 Papers will be refereed and accepted on the basis of their merit, originality, and relevance to the workshop. Each paper will be reviewed by at least two Program Committee members.
 
 Papers must be submitted electronically in PDF, using this link: 
-- [https://easychair.org/conferences/?conf=jowo2021](https://easychair.org/conferences/?conf=jowo2021)
+- [https://easychair.org/conferences/?conf=jowo2022](https://easychair.org/conferences/?conf=jowo2022)
 
 
 **PUBLICATION**
@@ -92,4 +92,4 @@ Accepted contributions to the workshop will be published in an open access CEUR 
 
 
 
-(Banner image belongs to the Science Museum of London and was uploaded to [wikimedia commons](https://upload.wikimedia.org/wikipedia/commons/6/66/Two_experimental_models_for_Babbages_Analytical_Engine%2C_c_1870._%289663806882%29.jpg) under the CC-BY-SA 2.0 license.)
+(Banner image made by the US Food and Drug Administration and was uploaded to [wikimedia commons](https://commons.wikimedia.org/wiki/File:The_Thacher_Calculator_(33148590206).jpg) under the United States Government Work license.)
