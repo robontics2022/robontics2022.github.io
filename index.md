@@ -67,9 +67,11 @@ Participants are invited to submit original papers for oral presentation, includ
 
 - Daniel Beßler, Institute for Artificial Intelligence, University of Bremen, Germany
 - Stefano Borgo, Laboratory for Applied Ontology (LOA), ISTC CNR, Trento, Italy
-- Mohammed Diab, Institute of Industrial and Control Engineering, Universitat Politècnica de Catalunya, Barcelona, Spain<!-- - Aldo Gangemi, University of Bologna and ISTC-CNR, Italy -->
+- Mohammed Diab, Institute of Industrial and Control Engineering, Universitat Politècnica de Catalunya, Barcelona, Spain
+- Aldo Gangemi, University of Bologna and ISTC-CNR, Italy
 - Alberto Olivares-Alarcos, Institut de Robòtica i Informàtica Industrial (CSIC-UPC), Barcelona, Spain
-- Mihai Pomarlan, Faculty of Linguistics and Literature, University of Bremen, Germany<!-- - Robert Porzel, Digital Media Lab, University of Bremen, Germany-->
+- Mihai Pomarlan, Faculty of Linguistics and Literature, University of Bremen, Germany
+- Robert Porzel, Digital Media Lab, University of Bremen, Germany
 
 
 **SUBMISSION INFORMATION**
