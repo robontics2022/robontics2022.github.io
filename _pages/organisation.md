@@ -17,4 +17,4 @@ The 3rd RobOntics Workshop is a half-day workshop to be held at the JOWO 2022 in
 
 **Scientific Committee**
 
-To be announced
+To be announced.
