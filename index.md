@@ -88,7 +88,7 @@ Papers must be submitted electronically in PDF, using this link:
 
 **PUBLICATION**
 
-Accepted contributions to the workshop will be published in an open access CEUR volume as part of the new IAOA series (see [http://ceur-ws.org/iaoa.html](http://ceur-ws.org/iaoa.html)).
+Accepted contributions to the workshop will be published in the JOWO proceedings.
 
 
 
