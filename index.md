@@ -13,7 +13,7 @@ International Workshop on Ontologies for Autonomous Robotics (ROBONTICS 2022) @ 
 
 <span style="color:red">**COVID-19 related update**</span>
 
-We encourage researchers interested in the fields of robotics and knowledge engineering to submit short (5-6 pages) or long (10-12 pages) research papers by May 24th 2022; accepted papers will be published in a JOWO proceedings volume in 2022.
+We encourage researchers interested in the fields of robotics and knowledge engineering to submit short (5-6 pages) or long (10-12 pages) research papers by June 3rd 2022; accepted papers will be published in a JOWO proceedings volume in 2022.
 
 Researchers with accepted papers will be invited to present at the RobOntics 2022 workshop, which is planned to be a hybrid (online and, if conditions allow, pysical event).
 
@@ -28,7 +28,7 @@ One of the difficulties is the large amount of real-world knowledge that an agen
 
 **IMPORTANT DATES**
 
-- Submission deadline: May 24th, 2022
+- Submission deadline: June 3rd, 2022
 - Notification: July 1st, 2022
 - Camera ready: July 22nd, 2022
 - Workshop: August 15th-19th (TBD), 2022
