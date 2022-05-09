@@ -28,7 +28,7 @@ One of the difficulties is the large amount of real-world knowledge that an agen
 
 **IMPORTANT DATES**
 
-- Submission deadline: June 3rd, 2022
+- Submission deadline: June 3rd, 2022 (extended)
 - Notification: July 1st, 2022
 - Camera ready: July 22nd, 2022
 - Workshop: August 15th-19th (TBD), 2022
