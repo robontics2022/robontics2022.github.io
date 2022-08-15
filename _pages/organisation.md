@@ -17,4 +17,7 @@ The 3rd RobOntics Workshop is a half-day workshop to be held at the JOWO 2022 in
 
 **Scientific Committee**
 
-To be announced.
+- Daniele Porello, Institute of Cognitive Science and Technologies National Research Council (CNR), Italy
+- Stefano de Giorgis, University of Bologna, Italy
+- Sascha Jongebloed, Institute for Artificial Intelligence, University of Bremen, Germany
+- Nikolaos Tsiogkas, Department of Mechanical Engineering, KU Leuven, Belgium
