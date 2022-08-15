@@ -8,6 +8,7 @@ Date: August 17th
 Venue: "Room 1" of JOWO. For online participation, use the following link:
 
 [https://ju-se.zoom.us/j/69514929419](https://ju-se.zoom.us/j/69514929419)
+
 Password: 213306
 
 MIDDAY SESSION
